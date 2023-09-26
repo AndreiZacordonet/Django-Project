@@ -105,7 +105,7 @@ celerybeat.pid
 .env
 .venv
 env/
-Proiect_jobs/venv_google/
+venv_google
 ENV/
 env.bak/
 venv.bak/
